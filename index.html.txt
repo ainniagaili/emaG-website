@@ -1,0 +1,10 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Slither.io Game</title>
+</head>
+<body>
+    <h1>Play Slither.io!</h1>
+    <iframe src="https://slither.io" width="800" height="600" style="border:none;"></iframe>
+</body>
+</html>
